@@ -12,7 +12,7 @@ Examples of problems 'findergen' is trying to solve:
 ## Key features:
 
 #### Allow multiple inputs
-+ Name
+* Name
 ..* Brian
 ..+ Lucy Henry
 ..+ Dellow
