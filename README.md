@@ -13,15 +13,16 @@ Examples of problems 'findergen' is trying to solve:
 
 #### Allow multiple inputs
 * Name
-  * Brian
-  * Lucy Henry
-  * Dellow
+ * Brian
+ * Lucy Henry
+ * Dellow
   
-+ Hierarchy
-..+ Practice Manager
-..+ Manager
-..+ Practice Lead
-..+ Chief Executive
+* Hierarchy
+ * Practice Manager
+ * Manager
+ * Practice Lead
+ * Chief Executive
+ 
 + Role
 ..+ Developer
 ..+ Consultant
