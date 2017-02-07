@@ -23,17 +23,19 @@ Examples of problems 'findergen' is trying to solve:
  * Practice Lead
  * Chief Executive
  
-+ Role
-..+ Developer
-..+ Consultant
-..+ Project Manager
-+ Location
-..+ New Zealand
-..+ Auckland
-..+ Sydney
-+ Department
-..+ Dynamics
-..+ Infrastructure
+* Role
+  * Developer
+  * Consultant
+  * Project Manager
+  
+* Location
+  * New Zealand
+  * Auckland
+  * Sydney
+
+* Department
+  * Dynamics
+  * Infrastructure
 
 #### Allow user inaccuracy:
 + spelling mistakes
