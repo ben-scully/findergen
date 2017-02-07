@@ -11,7 +11,7 @@ Examples of problems 'findergen' is trying to solve:
 
 ## Key features:
 
-#### Allow multiple inputs
+#### 1. Allow multiple inputs
 * Name
  * Brian
  * Lucy Henry
@@ -37,6 +37,15 @@ Examples of problems 'findergen' is trying to solve:
   * Dynamics
   * Infrastructure
 
-#### Allow user inaccuracy:
-+ spelling mistakes
-+ spelling/term
+#### 2. Allow user inaccuracy:
+* Spelling mistakes
+* Spelling/term
+
+#### 3. Allow user inaccuracy:
+* Spelling mistakes
+  * Pratcie Manager (actual: PraCTICE Manager)
+  * Trecy (actual: Tracy)
+  * Peter Michels (actual: MicheALS)
+* Spelling/Term variations (intended to be the same)
+  * Stephen, Steven, Stephan, Stefen
+  * Manager, Practice Manager, Practice Lead, Supervisor
