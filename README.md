@@ -36,9 +36,9 @@ Find colleagues with small amounts of information
   * Dynamics
   * Infrastructure
 
-#### 2. Allow user inaccuracy:
-* Spelling mistakes
-* Spelling/term
+#### 2. Allow user to scale their search:
+* Move vertically & horizontally around Org Chart
+* Zoom in/out of Org Chart to view more/less of people
 
 #### 3. Allow user inaccuracy:
 * Spelling mistakes
