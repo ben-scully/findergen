@@ -8,7 +8,25 @@ Find colleagues with small amounts of information
 
 > "How do I get a list of all the Dynamics Consultants in Wellington? It doesn't matter if they are CRM, NAV, or AX"
 
-## Key features:
+## How will 'findergen' work:
+* Users can 'hunt' for colleagues via:
+  * Pictorial organisation chart
+  * Lists of colleagues
+* Filters can be used to reduce the 'hunt':
+  * Name, Role, Title, etc
+
+## Major features:
+
+#### 1. Pictorial organisation chart
+![Org chart example](http://static1.creately.com/blog/wp-content/uploads/2015/07/org-chart-with-images.png)
+
+#### 2. Lists of colleagues
+![Colleague list example](http://www.sesamehelp.com/files/4614/0915/4695/Unmatched_list.PNG)
+
+#### 3. Search filter
+![Search filter example](https://i.imgur.com/Hz57P.png)
+
+## Filter features:
 
 #### 1. Allow multiple inputs
 * Name
